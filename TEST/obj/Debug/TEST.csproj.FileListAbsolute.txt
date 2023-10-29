@@ -1,0 +1,16 @@
+C:\Users\Admins\source\repos\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\Admins\source\repos\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\Admins\source\repos\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.frmMainMenu.resources
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.Forms.FormCustomer.resources
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.Forms.FormNotification.resources
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.Forms.FormOrder.resources
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.Forms.FormProduct.resources
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.Forms.FormReporting.resources
+C:\Users\Admins\source\repos\TEST\TEST\obj\Debug\TEST.Forms.FormSetting.resources
